@@ -1,7 +1,7 @@
 # ifsm201
 ifsm201 markdown web site
 
-####by Robert Laurie
+#### by Robert Laurie
 
 This is a test of markdown editing for class.
 + Teaches coding
