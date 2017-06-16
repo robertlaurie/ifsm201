@@ -7,4 +7,4 @@
 This week we do number systems and codes
 
 This is my mug shot
-![me](my_mug.jpg)
+![me](MyMug150_2014.jpg)
